@@ -1,0 +1,49 @@
+﻿{
+    "farm_lease": [
+        {
+            "registration_id": "F-2021-00000001",
+            "land_owner": "Salim Uddin",
+            "geocode": "100409",
+            "category": "Vegitable Farming Land",
+            "land_area": "200",
+            "lease_tenor": "12",
+            "lease_rent": "20000"
+        },
+        {
+            "registration_id": "F-2021-00000002",
+            "land_owner": "Rahim Miah",
+            "geocode": "201506",
+            "category": "Crops Farming",
+            "land_area": "300",
+            "lease_tenor": "12",
+            "lease_rent": "40000"
+        },
+        {
+            "registration_id": "F-2021-00000003",
+            "land_owner": "Jobeda Begum",
+            "geocode": "201974",
+            "category": "Mango Farming",
+            "land_area": "100",
+            "lease_tenor": "12",
+            "lease_rent": "30000"
+        },
+        {
+            "registration_id": "F-2021-00000004",
+            "land_owner": "Lal Mia",
+            "geocode": "100409",
+            "category": "Fish Farming",
+            "land_area": "100",
+            "lease_tenor": "24",
+            "lease_rent": "50000"
+        },
+        {
+            "registration_id": "F-2021-00000005",
+            "land_owner": "Chan Sawdagor",
+            "geocode": "201506",
+            "category": "Poultry Farming",
+            "land_area": "20",
+            "lease_tenor": "24",
+            "lease_rent": "50000"
+        }
+    ]
+}
